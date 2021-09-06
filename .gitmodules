@@ -1,0 +1,6 @@
+[submodule "lib/hump"]
+	path = lib/hump
+	url = https://github.com/antvale/hump.git
+[submodule "lib/suit"]
+	path = lib/suit
+	url = https://github.com/antvale/suit.git
